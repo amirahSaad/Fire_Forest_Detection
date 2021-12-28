@@ -17,6 +17,11 @@ As the planet continues to rapidly warm, wildfires will become a growing problem
 
 - Doing a fire warning alert if the live camera see the fire.
 
+## Table of Content
+
+- [Project Presentation slides](https://github.com/amirahSaad/Fire_Forest_Detection/blob/main/Fire%20forest%20detection%20slides.pdf)
+- [Fire Model](https://github.com/amirahSaad/Fire_Forest_Detection/blob/main/fire%20model.ipynb)
+
 ## By:
 
 - [Amirah Alotaibi](https://github.com/amirahSaad)
